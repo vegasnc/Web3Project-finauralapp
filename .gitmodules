@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/finaural/finaural-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/finaural/finaural-frontend.git
