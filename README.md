@@ -223,8 +223,3 @@ The processing unit is in a Pre-alpha stage.
 <br/>
 
 ___
-
-<br/>
-<a href="https://discord.gg/JCvfNkkecU" target="_blank"><img src="github_image"/> Join our Discord Server</a>
-<br>
-<a href="https://github.com/finaural" target="_blank"><img src="discord_image"/> Follow us on Github</a>
