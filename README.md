@@ -20,9 +20,8 @@ Built with <a href="https://docs.nestjs.com" target="_blank">NestJS</a>.
 #### Install NestJS
 
 ```
+docker exec -it www-fau-backend-node bash
 npm i -g @nestjs/cli
-nest new backend
-cd backend
 npm install
 npm run start
 ```
@@ -48,13 +47,23 @@ npm i --save-dev webpack-node-externals run-script-webpack-plugin webpack
 #### Dependencies for GraphQL & Apollo
 ```
 npm i @nestjs/graphql @nestjs/apollo graphql apollo-server-express
+npm install --save @nestjs/typeorm typeorm mysql2
 ```
 </details>
 
 <details>
-<summary>Authorization (todo)</summary>
+<summary>JWT Authorization (todo)</summary>
 
-#### Implement Web3 Authorization
+#### Dependecies for JWT Authorization
+```
+
+```
+</details>
+
+<details>
+<summary>Web3 Authorization (todo)</summary>
+
+#### Dependecies for Web3 Authorization
 ```
 
 ```
@@ -216,6 +225,6 @@ The processing unit is in a Pre-alpha stage.
 ___
 
 <br/>
-<a href="github_url" target="_blank"><img src="github_image"/></a> Join our Discord Server
+<a href="https://discord.gg/JCvfNkkecU" target="_blank"><img src="github_image"/> Join our Discord Server</a>
 <br>
-<a href="discord_url" target="_blank"><img src="discord_image"/></a> Follow us on Github
+<a href="https://github.com/finaural" target="_blank"><img src="discord_image"/> Follow us on Github</a>
